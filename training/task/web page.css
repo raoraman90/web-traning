@@ -1,0 +1,59 @@
+.container{
+    height: 100ph;
+    background-color: white;
+    
+    
+
+    
+}
+h3{
+    border: 2px solid rgb(0, 0, 0);
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+.hero{
+    border: solid black;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.box-1{
+    border: solid black;
+    width: 60%;
+    height: 550px;
+    margin: 20px;
+    background-color:#5e697d;
+}
+.box-2{
+    border: solid black;
+    width: 40%;
+    height: 550px;
+    margin: 20px;
+    
+
+}
+H1{
+    font-size: 50PX;
+    padding-left: 30PX;
+    font-style: initial;
+}
+.hello{
+    font-size: 100px;
+    margin-top: 5px;
+    margin-left: -17px;
+}
+.to{
+    margin-top: -77px;
+}
+.hi{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+img{
+    width: 100%;
+    height: 549px;
+}

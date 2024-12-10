@@ -1,0 +1,38 @@
+.tittle{
+    color:rgb(8, 102, 255);
+    font-size: 70px;
+
+}
+h3{
+    font-size: 25px;
+}
+.xyz{
+    margin-right: 287px;
+    
+    margin-top: -10px;
+    font-size: 12px;
+}
+.hello{
+    margin-right: 12px;
+    width: 80px;
+    line-height: 20px;
+    margin-left: 30p
+}
+.hi{
+    margin-right: 23px;
+    width: 80px;
+}
+.ok{
+    width: 132px;
+
+}
+.Gender{
+    margin-right: 305px;
+    
+    margin-top: -9px;
+    font-size: 13px;
+}
+.male{
+    border: 1px;
+    box-sizing: border-box;
+}

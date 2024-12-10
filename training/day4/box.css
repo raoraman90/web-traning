@@ -1,0 +1,35 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: solid 5px black;
+}
+.container{
+    background-color: rgb(44, 204, 204);
+    position: relative;
+}
+#o{
+    position: absolute;
+    left: 420px;
+    top: 20px;
+}
+#t{
+    position: absolute;
+    left: 580px;
+    top: 20px;
+}
+#v{
+    position: absolute;
+    left: 580px;
+    top: 200px;
+}
+#r{
+    position: absolute;
+    left: 420px;
+    top: 200px;
+}
+#f{
+    position: absolute;
+    left: 500;
+    top: 110;
+}
+
